@@ -1,3 +1,10 @@
+ I was a navigator on : 
+
+https://github.com/FaroukIbrahim-FII/About-Me/pull/1  
+I was a driver : 
+https://github.com/Ahmad-Khaled-Zaid/AboutMe/pull/1  
+
+
 # LAB - 02
 
 ## About Me
